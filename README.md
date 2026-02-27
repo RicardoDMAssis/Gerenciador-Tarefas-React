@@ -18,7 +18,6 @@ Projeto de estudo desenvolvido para praticar React com Vite e TailwindCSS.
 
 ## 🔮 Próximos passos
 
-- [ ] Persistência com localStorage
 - [ ] Integração com backend
 - [ ] Autenticação de usuários
 
